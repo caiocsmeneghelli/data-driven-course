@@ -1,1 +1,1 @@
-Course Data Driven Design - Balta.io
+CourseCriando APIs Data Driven com ASP.NET Core 3 e EF Core 3 - Balta.io
